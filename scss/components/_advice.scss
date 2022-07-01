@@ -16,7 +16,7 @@
     }
 
     @media screen and (max-width: 425px) {
-      padding-bottom: 13.286em;
+      padding-bottom: 13.5em;
     } 
   }
 
@@ -28,7 +28,7 @@
     padding: 3.571em 0 3.214em;
 
     @media screen and (max-width: 425px) {
-      padding: 3.571em 2.143em 3.786em;
+      padding: 3.571em 2.143em 5.357em;
     }
   }
 
@@ -40,7 +40,7 @@
     @include font-par;
 
     @media screen and (max-width: 425px) {
-      max-width: 14.286em;
+      max-width: 17.286em;
     }
   }
 
@@ -53,7 +53,7 @@
 
     @media screen and (max-width: 1050px) {
       justify-content: center;
-      gap: 30px;
+      gap: 26px;
     }
   }
 }

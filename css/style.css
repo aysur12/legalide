@@ -177,6 +177,9 @@ a {
     text-align: left;
   }
 }
+.heading_copyrights {
+  letter-spacing: 0.2px;
+}
 
 .nav {
   display: flex;
@@ -425,7 +428,7 @@ a {
 }
 @media screen and (max-width: 425px) {
   .practice__info {
-    max-width: 16.214em;
+    max-width: 17.214em;
   }
 }
 .practice__card-list {
@@ -508,7 +511,7 @@ a {
 }
 @media screen and (max-width: 425px) {
   .advice__container {
-    padding-bottom: 13.286em;
+    padding-bottom: 13.5em;
   }
 }
 .advice__heading-block {
@@ -520,7 +523,7 @@ a {
 }
 @media screen and (max-width: 425px) {
   .advice__heading-block {
-    padding: 3.571em 2.143em 3.786em;
+    padding: 3.571em 2.143em 5.357em;
   }
 }
 .advice__info {
@@ -533,7 +536,7 @@ a {
 }
 @media screen and (max-width: 425px) {
   .advice__info {
-    max-width: 14.286em;
+    max-width: 17.286em;
   }
 }
 .advice__card-list {
@@ -546,7 +549,7 @@ a {
 @media screen and (max-width: 1050px) {
   .advice__card-list {
     justify-content: center;
-    gap: 30px;
+    gap: 26px;
   }
 }
 
@@ -586,7 +589,7 @@ a {
 }
 @media screen and (max-width: 425px) {
   .advice-card:nth-child(2) {
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
   }
 }
 
