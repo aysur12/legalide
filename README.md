@@ -1,6 +1,5 @@
 ![Логотип Legalide](./img/legalide.png)
 
-# Legalide
 ___
 Ссылка на проект: https://aysur12.github.io/legalide/
 ___
